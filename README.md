@@ -1,9 +1,11 @@
 # 🤖 Semillero de Inteligencia Artificial
 
-![Python](https://img.shields.io/badge/Python-3.15%2B-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F9AB00?style=flat-square&logo=jupyter)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-FFB000?style=flat-square&logo=huggingface)
-![Estado](https://img.shields.io/badge/Estado-En%20construcci%C3%B3n-FFA500?style=flat-square)
+<p align="center">
+   <img src="https://img.shields.io/badge/Python-3.15%2B-3776AB?logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/Jupyter-Notebook-F9AB00?style=flat-square&logo=jupyter" alt="Jupyter">
+   <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFB000?style=flat-square&logo=huggingface" alt="Hugging Face">
+   <img src="https://img.shields.io/badge/Estado-En%20construcci%C3%B3n-FFA500?style=flat-square" alt="Estado">
+</p>
 
 🔗 **LinkedIn:** [@scedison](www.linkedin.com/in/scedison)
 
@@ -13,7 +15,9 @@ El **Semillero de Inteligencia Artificial** es un espacio dedicado al *aprendiza
 
 ## 💻 Características de mi laptop
 
-![Características de mi laptop](img/computer-overview.webp)
+<p align="center">
+  <img src="img/computer-overview.webp" alt="Características de mi laptop">
+</p>
 
 ---
 
