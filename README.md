@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/Estado-En%20construcci%C3%B3n-FFA500?style=flat-square" alt="Estado">
 </p>
 
-🔗 **LinkedIn:** [@scedison](www.linkedin.com/in/scedison)
+🔗 **LinkedIn:** [@scedison](https://www.linkedin.com/in/scedison/)
 
 ## 📖 Acerca del proyecto
 
