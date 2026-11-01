@@ -1,8 +1,10 @@
 # 🎭 Taller 1: Enseñando a la IA a contar chistes
 
-![Python](https://img.shields.io/badge/Python-3.15%2B-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F9AB00?style=flat-square&logo=jupyter)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-Transformers-FFB000?style=flat-square&logo=huggingface)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.15%2B-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F9AB00?style=flat-square&logo=jupyter" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFB000?style=flat-square&logo=huggingface" alt="Hugging Face">
+</p>
 
 > 🎭 *Los modelos de lenguaje entienden texto, pero… ¿entienden el humor? 😅*
 
@@ -128,15 +130,23 @@ print("Porque " + resultado[0]["generated_text"].strip())
 
 ### Parámetros utilizados
 
-| Parámetro | Valor |
-|---|---|
-| `max_new_tokens` | 10 |
-| `temperature` | 0.8 |
-| `top_p` | 0.90 |
-| `top_k` | 50 |
-| `do_sample` | True |
-| `repetition_penalty` | 1.1 |
-| `return_full_text` | False |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Parámetro</th>
+      <th>Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><code>max_new_tokens</code></td><td>10</td></tr>
+    <tr><td><code>temperature</code></td><td>0.8</td></tr>
+    <tr><td><code>top_p</code></td><td>0.90</td></tr>
+    <tr><td><code>top_k</code></td><td>50</td></tr>
+    <tr><td><code>do_sample</code></td><td>True</td></tr>
+    <tr><td><code>repetition_penalty</code></td><td>1.1</td></tr>
+    <tr><td><code>return_full_text</code></td><td>False</td></tr>
+  </tbody>
+</table>
 
 ## 🧠 Lo que aprendí
 
