@@ -19,15 +19,13 @@ El **Semillero de Inteligencia Artificial** es un espacio dedicado al *aprendiza
   <img src="img/computer-overview.webp" alt="Características de mi laptop">
 </p>
 
----
-
 ## 🧭 Cómo usar este semillero
 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/Semillero-Inteligencia-Artificial.git
-   cd Semillero-Inteligencia-Artificial
+   git clone https://github.com/Semillero-Inteligencia-Artificial/talleres.git
+   cd talleres
    ```
 
 2. Navega al taller de tu interés:
@@ -39,10 +37,9 @@ El **Semillero de Inteligencia Artificial** es un espacio dedicado al *aprendiza
 3. Lee el `README.md` del taller y sigue los pasos.
 4. Ejecuta las celdas del notebook con **Jupyter Lab**.
 
----
-
 ## 🏫 Talleres
 
 | N° | Taller | Estado | Práctica | README |
 |----|--------|:------:|----------|--------|
 | 1 | Enseñando a la IA a contar chistes | ✅ Completado | Enseñar a un Transformer a generar chistes | [Ver README](taller-1/README.md) |
+| 2 | Expedición Lunar — Cartas desde la Luna con LLMs | ✅ Completado | Dominar parámetros de un LLM (Ollama + gemma2:2b) | [Ver README](taller-2/README.md) |

@@ -20,7 +20,6 @@ Ejecutar el siguiente comando:
 
 ```bash
 pip install "torch>=2.3.0" "transformers==4.44.2" "huggingface_hub==0.25.2" "accelerate==0.33.0" "safetensors==0.4.4"
-pip install --upgrade jupyterlab ipywidgets widgetsnbextension
 pip install hf_xet
 ```
 
